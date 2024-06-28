@@ -1,6 +1,6 @@
 # Maria Solovykh
 
-![My Photo](images/myphoto.jpg)
+![myphoto](https://github.com/solowihmaria/rsschool-cv/assets/91419393/117d7d23-d660-45c7-af12-b2cc09e65778)
 
 ---
 
