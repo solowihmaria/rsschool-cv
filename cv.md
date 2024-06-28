@@ -15,9 +15,7 @@
 ## About Me
 
 I am a student who has completed my bachelor's degree and decided to pursue a career in frontend development.
-My goal is to gain knowledge and develop new skills that will help me succeed in my career. 
-My strengths are responsibility, diligence, organization, and good leadership skills. 
-I am also highly motivated to learn and continuously improve my skills.
+My goal is to gain knowledge and develop new skills that will help me succeed in my career. My strengths are responsibility, diligence, organization, and good leadership skills. I am also highly motivated to learn and continuously improve my skills.
 
 ---
 
