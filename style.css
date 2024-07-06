@@ -19,7 +19,6 @@ header {
     text-align: center;
 }
 
-/* работа с панелью навигации */
 html {
     scroll-behavior: smooth;
 }
@@ -45,7 +44,6 @@ html {
     list-style: none;
 }
 
-/* работа с основным контентом */
 main {
     padding: 32px; 
     text-align: center;
@@ -146,12 +144,10 @@ main {
 }
 
 .pre {
-    margin-left: 20px; /* Внешний отступ слева */
+    margin-left: 20px; 
 
 }
 
-
-/* работа с футером */
 footer {
     background-color: #eba4bb;
     color: #121011;
