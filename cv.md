@@ -1,5 +1,6 @@
 # Maria Solovykh
 
+![me](https://github.com/user-attachments/assets/c08f40b7-82b4-4058-8712-47ac7313f1d2)
 
 
 ---
